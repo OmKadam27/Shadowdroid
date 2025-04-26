@@ -1,0 +1,7 @@
+PyQt6
+requests
+fpdf
+nvdlib
+pyExploitDb
+beautifulsoup4
+vulners
