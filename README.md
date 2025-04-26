@@ -27,7 +27,7 @@ It provides real-time vulnerability assessment, app risk analysis, network diagn
 
 ```bash
 # Clone the repository
-git clone https://github.com/YourUsername/ShadowDroid.git
+git clone https://github.com/OmKadam27/ShadowDroid.git
 cd ShadowDroid
 
 # Install required Python libraries
