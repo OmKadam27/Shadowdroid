@@ -1,0 +1,11 @@
+admin
+login
+config
+phpMyAdmin
+wp-admin
+dashboard
+cgi-bin
+uploads
+backup
+test
+twiki
